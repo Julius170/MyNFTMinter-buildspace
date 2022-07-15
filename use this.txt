@@ -1,0 +1,4 @@
+
+  string[] firstWords = ["Kimetsu", "Yaima", "Thunder", "Water", "Beast", "Fire", "Earth", "Flame", "Sound", "Air", "Nature", "Calm", "Lower", "First", "Fierce", "Sun", "Scortching", "Rsing", "Spirit", "Art"];
+  string[] secondWords = ["Real", "Euphoric", "Crazy", "Delegate", "Firm", "Decisive", "Time", "Together", "Alone", "Night", "Date", "Songs", "Movies", "Regards", "Obsess", "Acts", "Dance", "Sunshine", "Want", "Delegate"];
+  string[] thirdWords = ["Pray", "Unserious", "Funky", "Akward", "Hoodies", "Shoes", "Enjoy", "Spend", "Watch", "Smile", "Accept", "Understand", "Hold", "Hug", "Fun", "Sleep", "Rain", "Out", "Full", "Less", "Care", "Space"];
